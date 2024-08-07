@@ -1,12 +1,3 @@
 #root {
   height: 100dvh;
 }
-
-.editor {
-  width: 100%;
-  height: 100%;
-  resize: none;
-  border: none;
-  font-family: monospace;
-  font-size: 15px;
-}
